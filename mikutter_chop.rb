@@ -1,3 +1,9 @@
+#-*- coding: utf-8 -*-
+
+# Copyright 2014, pocke
+# Licensed MIT
+# http://opensource.org/licenses/mit-license.php
+
 Plugin.create(:chop) do
   command(
     :chop,
